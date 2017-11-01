@@ -10,5 +10,5 @@ echo $res->getHeader('content-type');
 // 'application/json; charset=utf8'
 echo $res->getBody();
 // {"type":"User"...'
- 
+       
 ?>
